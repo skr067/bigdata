@@ -1,0 +1,3 @@
+com\atguigu\hbase\mr1\FruitMRRunner.class
+com\atguigu\hbase\mr1\WriteFruitMRReducer.class
+com\atguigu\hbase\mr1\ReadFruitMapper.class
