@@ -334,6 +334,10 @@ public class WeiBo {//12 36
         inboxTable.close();
         connection.close();
 
+
+
+
+
         return messages;
     }
 
