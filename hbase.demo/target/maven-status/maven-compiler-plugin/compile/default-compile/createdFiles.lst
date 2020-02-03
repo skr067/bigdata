@@ -1,3 +1,9 @@
 com\atguigu\hbase\mr1\FruitMRRunner.class
+com\atguigu\ShpConvert.class
+com\atguigu\weibo\WeiBo.class
+com\atguigu\CommonMethod.class
 com\atguigu\hbase\mr1\WriteFruitMRReducer.class
+com\atguigu\Test.class
+com\atguigu\weibo\Message.class
+com\atguigu\hbase_syllabus\HBaseDemo.class
 com\atguigu\hbase\mr1\ReadFruitMapper.class
