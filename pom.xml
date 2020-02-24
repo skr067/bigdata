@@ -11,6 +11,8 @@
     <modules>
         <module>kafka.demo</module>
         <module>hbase.demo</module>
+        <module>scale</module>
+        <module>lambda.demo</module>
     </modules>
 
 
